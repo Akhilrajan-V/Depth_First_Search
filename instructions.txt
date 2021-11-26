@@ -1,0 +1,25 @@
+##This is the instruction file for RWA2Group_8_1 
+##Authored by Aditya Varadaraj, Akhilrajan Vethirajan and Saurabh Prakash Palande
+
+1) Open the terminal cd to RWA2_simulator/mms/bin directory.
+
+2) Use the command ./mms to run the simulator.
+
+3) Choose a maze from resources option.
+
+4) Click on the add file button. A GUI will open. Specify a name (any name). 
+
+5) In Directory field, Browse to the folder RWA2Group_8_1/src (The src of the directory you just downloaded).
+
+6) In the Build field, type "g++ api.cpp node.cpp mouse.cpp main.cpp".
+
+7) In the Run field, type "./a.out". Click OK to close GUI wizard.
+
+8) Click on Build in the simulator.
+
+9) Once Build is completed, adjust mouse speed as desired using the slider.
+
+10) Click on Run.
+
+11) Watch the mouse complete the maze and reach the goal. 
+
