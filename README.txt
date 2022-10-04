@@ -1,5 +1,5 @@
-//This is a Readme file for RWA2Group_8_1
-Authored By @Aditya Varadaraj @Akhilrajan Vethirajan @Saurabh Palande
+## This is a Readme file for RWA2Group_8_1
+` Authored By @Aditya Varadaraj @Akhilrajan Vethirajan @Saurabh Palande `
 
 
 The project directory comprises Src, Include and Doc directories
